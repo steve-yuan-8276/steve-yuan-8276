@@ -1,16 +1,12 @@
-### Hi there 👋
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!--
-**steve-yuan-8276/steve-yuan-8276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <h3> Hi😇, I am Feng Yuan👋</h3> -->
+### Hi there😇, I am Feng Yuan👋
+ 
+- 🎯 Portfolio website: [Portfolio](https://steve-yuan-8276.github.io/)
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+- Data Analysis: Excel (Pivot tables, VLOOKUP, Advanced formulas), SQL (MySQL, SQL server), Python (NumPy, Pandas, Matplotlib)
+- Data visualization: Tableau, Power BI
+- Tools & Technologies: Microsoft Office Suite, Google Sheets, Google Analytics, Git, Bash
