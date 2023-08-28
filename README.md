@@ -4,7 +4,7 @@
 ### Hi there😇, I am Feng Yuan👋
  
 - 🎯 Portfolio website: [Portfolio](https://steve-yuan-8276.github.io/)
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [linkedin](yuanf02@gmail.com)
 
 ### Languages and Tools
 - Data Analysis: Excel (Pivot tables, VLOOKUP, Advanced formulas), SQL (MySQL, SQL server), Python (NumPy, Pandas, Matplotlib)
