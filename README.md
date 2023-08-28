@@ -3,8 +3,8 @@
 <!-- <h3> Hi😇, I am Feng Yuan👋</h3> -->
 ### Hi there😇, I am Feng Yuan👋
  
-- 🎯 Portfolio website: [Portfolio](https://steve-yuan-8276.github.io/)
-- 📬 How to reach me: [linkedin](yuanf02@gmail.com)
+- 🎯 Portfolio: [steve-yuan-8276.github.io](https://steve-yuan-8276.github.io/)
+- 📬 Linkedin: [linkedin.com/in/feng-yuan](www.linkedin.com/in/feng-yuan)
 
 ### Languages and Tools
 - Data Analysis: Excel (Pivot tables, VLOOKUP, Advanced formulas), SQL (MySQL, SQL server), Python (NumPy, Pandas, Matplotlib)
