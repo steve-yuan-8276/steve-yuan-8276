@@ -8,5 +8,5 @@
 ### Languages and Tools
 - Data Analysis: Excel (Pivot tables, VLOOKUP, Advanced formulas), SQL (MySQL, SQL server), Python (NumPy, Pandas, Matplotlib)
 - Data ETL: Alteryx, Tableau prep
-- Data visualization: Tableau, Power BI
+- Data visualization: Tableau, Power BI, SPSS
 - Tools & Technologies: Microsoft Office Suite, Google Sheets, Google Analytics, Git, Bash
